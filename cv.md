@@ -1,7 +1,6 @@
 ### Personal information:
 
 Irina Rusinova  
-
 rusinovarusya@mail.ru
 
 ### Personal qualities:
