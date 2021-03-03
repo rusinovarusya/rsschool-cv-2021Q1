@@ -37,7 +37,7 @@
     color: darkslategray;
 }
 
-#darkslategray {
+.darkslategray {
     background: darkslategray;
     color: bisque;
     margin: 1em 0em 0.5em 0em;
